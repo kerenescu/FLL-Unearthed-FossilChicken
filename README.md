@@ -15,13 +15,16 @@ Acest ghid explică, pas cu pas, cum să îți faci un cont GitHub și cum să u
 ---
 
 ## 2) Accesarea repository-ului echipei
+
 1. Deschide linkul repository-ului:  
-   `https://github.com/kerenescu/FLL-Unearthed-FossilChicken`
-2. Vezi structura de foldere:
-/code — cod pentru robot (ex. SPIKE .llsp / .py)
-/design — imagini, schițe
-/docs — documentație și research
-/presentation — materiale de prezentare
+   https://github.com/kerenescu/FLL-Unearthed-FossilChicken  
+
+2. Vezi structura de foldere:  
+   - `/code` — cod pentru robot (ex. SPIKE .llsp / .py)  
+   - `/design` — imagini, schițe  
+   - `/docs` — documentație și research  
+   - `/presentation` — materiale de prezentare  
+
 
 ---
 
