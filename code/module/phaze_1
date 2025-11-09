@@ -1,0 +1,11 @@
+async def phaze_1():
+
+    await move(60,600)
+    await move_backward(20,600)
+    await move(20,600)
+    await turn(-25)
+    await move(6,600)
+    await turn(-3)
+    await move_backward(7,600)
+    await turn(35)
+    await move_backward(70,600)
