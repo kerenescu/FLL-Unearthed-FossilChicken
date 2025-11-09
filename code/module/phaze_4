@@ -1,0 +1,9 @@
+async def phaze_3():
+
+    #await lift_up(port.C, -300, 1000)
+ 
+    for i in range (5):
+
+        await lift_up(port.C, -350, 1000)
+        await wait(0.1)
+        await lift_up(port.C, 350, 1000)
