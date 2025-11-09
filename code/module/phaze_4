@@ -1,0 +1,12 @@
+async def phaze_4():
+
+    await lift_up(port.C, 50, -400)
+    await move(58, 800)
+    await turn(-93)
+    await move(5, 400)
+    await lift_up(port.C, 65, 400)
+    await lift_up(port.C, 50, -200)
+    await wait(0.5)
+    #await move_backward(5, 200)
+    await turn(8)
+    await lift_up(port.C, 65, -500)
